@@ -25,20 +25,6 @@
 
 ![](./images/3.png)
 
-## 直达连接
 
-- 官网：https://zbn.io
-- Github：https://github.com/zbnio/zbn
-- 文档： https://www.yuque.com/zbn/docs/ayilv9
-
-## 联系作者
-
-### E-Mail
-
-- lauixData@gmail.com
-
-### 微信
-
-> 加作者微信进群，请备注 **SOAR**、**ZBN**、**织布鸟**  
 
 <img src="./images/4.jpg" width="400">
